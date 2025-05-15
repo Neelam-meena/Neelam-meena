@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neelam-meena" alt="neelam-meena" /></a> </p>
 
 - 🎓 I'm currently pursuing *Computer Science*.
-- 
+  
 - 💻 Currently learning *C++ and Data Structures & Algorithms*.
-- 
+  
 - 🧠 Looking for help with *DSA*, especially to improve my problem-solving skills.
-- 
+
 - 📫 How to reach me: *neelammeena406@gmail.com*
   
 - 🎬 Fun fact: *I'm a huge fan of Korean movies and series.*
